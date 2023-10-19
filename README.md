@@ -6,6 +6,6 @@
 - 💬 I'm somehow familiar with these languages: Python, C, Javascript, HTML, CSS.
 - 🥰 My favorite language: Python 🐍.
 - 🔭 I’m currently working on my interest.
-- 📫 How to reach me: [Telegram](https://t.me/PRO_2684)
+- 📫 How to reach me: [Telegram](https://t.me/PRO_2684) [Channel](https://t.me/pros_channel)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=PRO-2684&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

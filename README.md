@@ -1,18 +1,5 @@
 ## 👋 Hello there!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <picture style="float: right;" alt="Top Langs">
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PRO-2684&theme=github_dark&hide=verilog"
-            media="(prefers-color-scheme: dark)"
-        />
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PRO-2684&theme=default&hide=verilog"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRO-2684&theme=default&hide=verilog" />
-    </picture>
-</a>
 
 - 👨‍🎓 I major in Computer Science 💻 at University of Science and Technology of China (USTC).
 - 💬 I'm somehow familiar with these languages: Python, C, Javascript, HTML, CSS.
@@ -34,5 +21,18 @@
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <img src="https://github-readme-stats.vercel.app/api?username=PRO-2684&theme=default&show_icons=true" />
+    </picture>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture style="float: right;" alt="Top Langs">
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PRO-2684&theme=github_dark&hide=verilog&layout=compact"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PRO-2684&theme=default&hide=verilog&layout=compact"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRO-2684&theme=default&hide=verilog&layout=compact" />
     </picture>
 </a>

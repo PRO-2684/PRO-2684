@@ -7,7 +7,7 @@
 - 🔭 I'm currently working on my interest.
 - 📫 How to reach me:
     - [Matrix](https://matrix.org/): [`@pro-2684:matrix.org`](https://matrix.to/#/@pro-2684:matrix.org)
-    - [Berty](https://berty.tech/): [`@PRO-2684`](https://berty.tech/id#contact/oZBLG8t59wCLr2WtViCV5e1y3xW7NZApiAC5xR31DG5h73K5TG7JXwfHFPhbu7JuSdwWFh8iDzZdk3u95do7XyuQ7sVg3T3/name=PRO-2684)
+    - [Session](https://getsession.org/): `05fa419c4b508a3e47d559f44ab1ae7ebb6728ff1c626ec45c3efc82384743f449`
     - ~~[Telegram](https://telegram.org/): [`@PRO_2684`](https://t.me/PRO_2684), [PRO's channel](https://t.me/pros_channel)~~
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

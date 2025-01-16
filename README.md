@@ -1,10 +1,9 @@
 ## 👋 Hello there!
 
-
 - 👨‍🎓 I major in Computer Science 💻 at University of Science and Technology of China (USTC).
 - 💬 I'm somehow familiar with these languages: Python, C, Javascript, HTML, CSS.
 - 🥰 My favorite language: Python 🐍.
-- 🔭 I'm currently working on my interest.
+- 🔭 I'm currently learning: Rust 🦀.
 - 📫 How to reach me:
     - [Matrix](https://matrix.org/): [`@pro-2684:matrix.org`](https://matrix.to/#/@pro-2684:matrix.org)
     - [Session](https://getsession.org/): `05fa419c4b508a3e47d559f44ab1ae7ebb6728ff1c626ec45c3efc82384743f449`

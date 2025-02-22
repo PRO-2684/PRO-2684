@@ -5,9 +5,9 @@
 - 🥰 My favorite language: Python 🐍.
 - 🔭 I'm currently learning: Rust 🦀.
 - 📫 How to reach me:
+    - [Telegram](https://telegram.org/): [`@PRO2684`](https://t.me/PRO2684), [PRO's Gossip](https://t.me/PROs_Gossip)
     - [Matrix](https://matrix.org/): [`@pro-2684:matrix.org`](https://matrix.to/#/@pro-2684:matrix.org)
     - [Session](https://getsession.org/): `05fa419c4b508a3e47d559f44ab1ae7ebb6728ff1c626ec45c3efc82384743f449`
-    - ~~[Telegram](https://telegram.org/): [`@PRO_2684`](https://t.me/PRO_2684), [PRO's channel](https://t.me/pros_channel)~~
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <picture alt="PRO-2684's GitHub stats">

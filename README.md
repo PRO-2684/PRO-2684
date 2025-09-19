@@ -1,6 +1,6 @@
 ## 👋 Hello there!
 
-- 👨‍🎓 I major in Computer Science 💻 at University of Science and Technology of China (USTC).
+- 👨‍🎓 I am a student and major in Computer Science 💻.
 - 💬 I'm somehow familiar with these languages: Rust, Python, C, Javascript, HTML, CSS.
 - 🥰 My favorite language: Rust 🦀.
 - 📫 How to reach me:

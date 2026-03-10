@@ -10,18 +10,12 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <picture alt="PRO-2684's GitHub stats">
-        <source
-            srcset="https://github-readme-stats.vercel.app/api?username=PRO-2684&theme=github_dark&show_icons=true"
-            media="(prefers-color-scheme: dark)"
-        />
-        <source
-            srcset="https://github-readme-stats.vercel.app/api?username=PRO-2684&theme=default&show_icons=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api?username=PRO-2684&theme=default&show_icons=true" />
+        <source srcset="./profile/stats_dark.svg" media="(prefers-color-scheme: dark)" />
+        <source srcset="./profile/stats_light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="./profile/stats_light.svg" />
     </picture>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
     <picture style="float: right;" alt="Top Langs">
         <source
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PRO-2684&theme=github_dark&hide=verilog&layout=compact"
@@ -33,4 +27,4 @@
         />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRO-2684&theme=default&hide=verilog&layout=compact" />
     </picture>
-</a>
+</a> -->

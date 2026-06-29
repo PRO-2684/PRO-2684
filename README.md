@@ -1,5 +1,9 @@
 ## 👋 Hello there!
 
+[![Language: Rust](https://img.shields.io/badge/Lang-Rust-black?style=flat&logo=rust)](https://rust-lang.org)
+[![Language: Python](https://img.shields.io/badge/Lang-Python-3776AB?style=flat&logo=python)](https://www.python.org)
+[![Support on Afdian](https://img.shields.io/badge/Support-Afdian-%23946CE6?style=flat&logo=afdian)](https://afdian.com/a/PRO-2684)
+
 - 👨‍🎓 I am a student and major in Computer Science 💻.
 - 💬 I'm somehow familiar with these languages: Rust, Python, C, Javascript, HTML, CSS.
 - 🥰 My favorite language: Rust 🦀.
@@ -7,6 +11,7 @@
     - [Telegram](https://telegram.org/): [`@PRO2684`](https://t.me/PRO2684), [PRO's Gossip](https://t.me/PROs_Gossip)
     - [Matrix](https://matrix.org/): [`@pro-2684:matrix.org`](https://matrix.to/#/@pro-2684:matrix.org)
     - [Session](https://getsession.org/): `05fa419c4b508a3e47d559f44ab1ae7ebb6728ff1c626ec45c3efc82384743f449`
+- ❤️ You can support me at [Afdian](https://afdian.com/a/PRO-2684)
 
 <a href="https://github.com/stats-organization/github-readme-stats-action">
     <picture alt="PRO-2684's GitHub stats">

@@ -1,6 +1,6 @@
 ## 👋 Hello there!
 
-[![Language: Rust](https://img.shields.io/badge/Lang-Rust-black?style=flat&logo=rust)](https://rust-lang.org)
+[![Language: Rust](https://img.shields.io/badge/Lang-Rust-dca282?style=flat&logo=rust)](https://rust-lang.org)
 [![Language: Python](https://img.shields.io/badge/Lang-Python-3776AB?style=flat&logo=python)](https://www.python.org)
 [![Support on Afdian](https://img.shields.io/badge/Support-Afdian-%23946CE6?style=flat&logo=afdian)](https://afdian.com/a/PRO-2684)
 
